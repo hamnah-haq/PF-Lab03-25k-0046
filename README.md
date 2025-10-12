@@ -8,10 +8,10 @@
 ---
 
 ### 🛠 Languages & Tools
-1 Python  
-2 C / C++  
-3 HTML, CSS  
-4 Git & GitHub  
+1. Python  
+2. C / C++  
+3. HTML, CSS  
+4. Git & GitHub  
 
 ---
 
